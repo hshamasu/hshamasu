@@ -1,6 +1,3 @@
-Copy everything in the block below and paste it into your profile `README.md`:
-
-```markdown
 <div align="center">
 
 # Hi there 👋 I'm Hitha Shamasundar
